@@ -1,11 +1,11 @@
-### git cmds
+# git commands
 
-### Start a repo from existing project
+## Start a repo from existing project
 
 * Make a directory
 * Add any file in the directory
 * Open the directory in terminal
-* Add cmds -
+* Add commands -
 
 
 ```git add .gitignore```
@@ -20,8 +20,8 @@
 * Connect it to github -
     
     * Login/signup.
-    * Create new repo in case if you didn't create at the first time.
-    * And more cmds -
+    * Create a new repo in case if you didn't create at the first time.
+    * And more commands -
     
 ```git remote add origin https://github.com/user-name/repo-name```
 
