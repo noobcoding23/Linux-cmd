@@ -6,7 +6,7 @@
 
 To make the folder editable inside ```/var/www``` type the following command...
 
-```sudo chown -R jugalkdas:www-data /var/www/"The folder you want" && chmod -R g+sw /var/www/"The folder you want"``` 
+```sudo chown -R jugalkdas:www-data /var/www/"The folder you want" && chmod -R g+sw /var/www/"The folder you want"```
 
 ## File and folder commands in linux terminal
 
@@ -95,3 +95,7 @@ This command will print the last 10 lines of a file.
 ```tail -f filename```
 
 This will print the last 10 lines of a file and will keep printing new lines as they get appended to the file.
+
+```ln -s /another/directory /to-another/directory```
+
+This will link a directory to another.
