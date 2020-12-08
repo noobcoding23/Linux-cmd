@@ -1,3 +1,3 @@
 # Linux-command
 
-Just some linux terminal shortcuts and github commands to use.s
+Just some linux terminal shortcuts and github commands to use
